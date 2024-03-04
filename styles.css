@@ -1,3 +1,15 @@
 body {
     padding-top: 4.5rem;
 }
+
+.navbar {
+    border-bottom: 4px solid #96d10b;
+}
+
+.navbar-expand-lg{
+    background-color: #343a40;
+}
+
+.navbar-dark{
+    color: #fff;
+}
